@@ -1,4 +1,4 @@
 # drpetrie.github.io
 * hello world
-[file]
+* [file](file.md)
 
