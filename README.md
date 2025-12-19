@@ -1,4 +1,3 @@
 # drpetrie.github.io
-* hello world
-* [file](file.md)
+* [Genealogy](genealogy.md)
 
