@@ -1,2 +1,2 @@
 # John Petri
-!John(John_Gertrude_Wedding.jpeg)
+<img src="John_Gertrude_Wedding.jpeg" alt="Description" width="300">
