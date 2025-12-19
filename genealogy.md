@@ -1,5 +1,5 @@
-Petrie Genealogy
+# Petrie Genealogy
 
 * [Matthias Petri](Matthias_Petri.md)
 * [John Petri](John_Petri.md)
-* [Robert Petrie](Robert_Petrie.html)
+* [Robert Petrie](Robert_Petrie.md)

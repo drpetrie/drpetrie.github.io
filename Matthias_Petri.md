@@ -1,4 +1,7 @@
+[Home](genealogy.html)
+
 # Matthias Petri
+
 ## From the Borderlands of Germany to the Frontier of Minnesota
 
 In the final decade of the 19th century, amid the sweeping tide of European migration to America, the Petri family—then spelled Petry in official records—embarked on a life-altering voyage. On April 1, 1891, a German couple, Mathias and Katherine Petri, together with their children, disembarked from the steamship Westernland in New York City. The family had departed from Antwerp, Belgium, a major gateway for continental emigrants, particularly those from western Germany and the neighboring Grand Duchy of Luxembourg.
