@@ -25,7 +25,8 @@ Charles’s daughter Gladys Cooper was born in North Dakota. She met her future 
 	•	Charles Calvin Cooper (1879–1948) – son of Oscar, farmer and Bemidji settler
 	•	Anna Bartosh Cooper – Charles’s second wife, mother of five
 	•	Gladys May Cooper Petrie (1907–2002) – nurse, camp cook, Spokane matriarch
-Family Tree and Photos
+
+## Family Tree and Photos
 
 	•	Cooper family tree
 	•	Portraits of Charles and Anna Cooper
