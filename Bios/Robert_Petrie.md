@@ -1,4 +1,4 @@
-# Robert "Bob" Petrie
+# Robert "Bob" Petrie (1904-2002)
 
 ## A Pioneer Westward in a House on Wheels
 

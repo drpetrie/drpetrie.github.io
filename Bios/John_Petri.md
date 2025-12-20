@@ -1,4 +1,4 @@
-# John Petri
+# John Petri (1875-1913)
 
 ## Logger, Postmaster, Justice of the Peace, Pioneer of Liberty Township
 

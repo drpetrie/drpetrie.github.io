@@ -1,4 +1,4 @@
-# Matthias Petri
+# Matthias Petri (1846-1925)
 
 ## From the Borderlands of Germany to the Frontier of Minnesota
 
