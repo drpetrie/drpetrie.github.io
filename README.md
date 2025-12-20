@@ -1,13 +1,14 @@
 # Family Stories and Biographies
 
 ## [Petrie](Families/Petrie_Family.md)
-German Immigrants to Minnesota
+### German Immigrants to Minnesota
 * [Matthias Petri (1846-1925)](Bios/Matthias_Petri.md)
 * [John Petri (1875-1913)](Bios/John_Petri.md)
+### From Minnesota to Washington
 * [Robert Petrie (1904-2002)](Bios/Robert_Petrie.md)
 
 ## [Cooper](Families/Cooper_Family.md)
-Early American Settlers
+### Early American Settlers
 * [Oscar Cooper (1847–1911)](Bios/Oscar_Cooper.md)
 * [Charles Cooper (1879–1948)](Bios/Charles_Cooper.md)
 * [Gladys Cooper (1909–2002)](Bios/Gladys_Cooper.md)
