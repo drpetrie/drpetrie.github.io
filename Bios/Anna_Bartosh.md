@@ -1,8 +1,8 @@
-A# nna Bartosh (1888-1964)
-
-Anna Bartosh (later Cooper) was born on August 4, 1888, in Center Township, the daughter of Czech immigrants navigating the first generation of American life. Her father, Frank Bartosh, had been born in Neznašov, and, with his wife Mary Reha, belonged to the wave of Bohemian settlers who left the Austro-Hungarian Empire in search of land, stability, and independence in the rural Midwest.
+# Anna Bartosh (1888-1964)
 
 ## Childhood in an Immigrant World
+
+Anna Bartosh (later Cooper) was born on August 4, 1888, in Center Township, the daughter of Czech immigrants navigating the first generation of American life. Her father, Frank Bartosh, had been born in Neznašov, and, with his wife Mary Reha, belonged to the wave of Bohemian settlers who left the Austro-Hungarian Empire in search of land, stability, and independence in the rural Midwest.
 
 Anna’s earliest years were spent in Iowa, but her upbringing was shaped by movement. Like many immigrant farm families, the Bartoshes relocated northward into South Dakota, likely settling in the Brown County or Hecla area where Czech communities formed strong ethnic and religious networks. Life revolved around farming, household labor, and church. From a young age, Anna would have shared in cooking, preserving food, tending gardens, and helping with fieldwork—work that left little room for sentimentality and demanded endurance.
 
