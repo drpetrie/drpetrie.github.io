@@ -16,6 +16,7 @@
 
 ## [Bartosh](Families/Bartosh_Family.md)
 * [Frank Bartosh (1864–1919)](Bios/Frank_Bartosh.md)
+* [Anna Bartosh (1888-1964)](Bios/Anna_Bartosh.md)
 
 ## [Daubel](Families/Daubel_Family.md)
 * [Ludwig Daubel (1839-1924)](Bios/Ludwig_Daubel.md)
