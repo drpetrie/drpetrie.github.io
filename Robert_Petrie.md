@@ -1,5 +1,3 @@
-[Home](genealogy.html)
-
 # Robert "Bob" Petrie
 
 ## A Pioneer Westward in a House on Wheels

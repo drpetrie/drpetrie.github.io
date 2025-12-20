@@ -1,5 +1,3 @@
-[Home](genealogy.html)
-
 # Matthias Petri
 
 ## From the Borderlands of Germany to the Frontier of Minnesota

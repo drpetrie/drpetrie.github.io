@@ -1,5 +1,3 @@
-[Home](genealogy.html)
-
 # John Petri
 
 ## Logger, Postmaster, Justice of the Peace, Pioneer of Liberty Township
