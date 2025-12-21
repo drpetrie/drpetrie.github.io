@@ -1,7 +1,5 @@
 # Chapter 6: The Strong Family
 
-* [Walter Ezra Strong](Bios/Walter_Strong.md) – early settler of Wild Rose Prairie
-
 ## Origins in America
 
 The Strong family lineage stretches back to the earliest Puritan settlements in New England. One of their ancestors, Elder John Strong, immigrated to Massachusetts from England in the 1630s and became a foundational figure in early colonial life. Over generations, the Strongs moved westward—from Massachusetts to upstate New York and into Pennsylvania and the Midwest—seeking land and opportunity.
@@ -26,8 +24,8 @@ Thressa married Herman Carl Daubel in 1937 after years of growing up in the same
 
 ## Key Individuals
 
-* [Walter Ezra Strong](Bios/Walter_Strong.md) – early settler of Wild Rose Prairie
+* [Walter Ezra Strong](/Bios/Walter_Strong.md) – early settler of Wild Rose Prairie
 * Jeanette “Jennie” Newman – mother, remembered fondly by her grandchildren
-* [William “Will” Strong](Bios/William_Strong.md) – farmer and patriarch
+* [William “Will” Strong](/Bios/William_Strong.md) – farmer and patriarch
 * [Josephine Lillian Spence Strong](/Bios/Josephine_Spence.md) – mother, twin, pioneer descendant
-* [Thressa Lillian Strong Daubel](Bios/Thressa_Strong.md) – matriarch, raised six children on the Daubel farm
+* [Thressa Lillian Strong Daubel](/Bios/Thressa_Strong.md) – matriarch, raised six children on the Daubel farm
