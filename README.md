@@ -4,7 +4,7 @@ This site traces the story of eight interconnected families across three generat
 
 Have you ever wondered where our ancestors came from? If we go back four generations to my 2X great grandparents, only four out of sixteen people were born in the US. The rest were immigrants. Looking at the nationalities of the fourth generation, I found eight Germans, five English, two Czechs, and one Swede. The four US lines of Cooper, Lanphere, Strong, and Newman have a long history in the US, dating back to the 1600s and the great migration. 
 
-<img src="Petrie_Tree.png" alt="Description" width="400">
+<img src="Media/Simple_tree.jpg" alt="Description">
 
 ## [Petrie](Families/Petrie_Family.md)
 
