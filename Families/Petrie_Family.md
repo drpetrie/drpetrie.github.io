@@ -27,9 +27,9 @@ In 1937, with three young sons—Milton, Vern, and Dale—they loaded their belo
 The family made many return trips to Minnesota over the years. Robert remained active into his 90s, both passed away in 2002. The Petrie family’s westward journey—from Luxembourg to the Pacific Northwest—embodied resilience, reinvention, and a deep-rooted commitment to family.
 
 ## Key Individuals
-* [Mathias Petri](Bios/Mathias_Petrie.md) – immigrant patriarch, born 1839 in Saarland
-* [John Petri (1875–1913)](Bios/John_Petri.md) – logger, homesteader, Justice of the Peace
-* [Gertrude Helbig Petri (1884–1983)](Bios/Gertrude_Helbig.md) – matriarch, widow, and pioneer
-* [Robert Petrie (1904–2002)](Bios/Robert_Petrie.md) – logger, carpenter, Spokane foreman
-* [Gladys Cooper Petrie (1907–2002)](Bios/Gladys_Cooper.md) – nurse, camp cook, beloved grandmother
+* [Mathias Petri](../Bios/Mathias_Petrie.md) – immigrant patriarch, born 1839 in Saarland
+* [John Petri (1875–1913)](../Bios/John_Petri.md) – logger, homesteader, Justice of the Peace
+* [Gertrude Helbig Petri (1884–1983)](../Bios/Gertrude_Helbig.md) – matriarch, widow, and pioneer
+* [Robert Petrie (1904–2002)](../Bios/Robert_Petrie.md) – logger, carpenter, Spokane foreman
+* [Gladys Cooper Petrie (1907–2002)](../Bios/Gladys_Cooper.md) – nurse, camp cook, beloved grandmother
 * Milton, Vern, and Dale Petrie – sons who grew up in the Inland Northwest

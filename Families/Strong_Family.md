@@ -24,8 +24,8 @@ Thressa married Herman Carl Daubel in 1937 after years of growing up in the same
 
 ## Key Individuals
 
-* [Walter Ezra Strong](/Bios/Walter_Strong.md) – early settler of Wild Rose Prairie
+* [Walter Ezra Strong](../Bios/Walter_Strong.md) – early settler of Wild Rose Prairie
 * Jeanette “Jennie” Newman – mother, remembered fondly by her grandchildren
-* [William “Will” Strong](/Bios/William_Strong.md) – farmer and patriarch
-* [Josephine Lillian Spence Strong](/Bios/Josephine_Spence.md) – mother, twin, pioneer descendant
-* [Thressa Lillian Strong Daubel](/Bios/Thressa_Strong.md) – matriarch, raised six children on the Daubel farm
+* [William “Will” Strong](../Bios/William_Strong.md) – farmer and patriarch
+* [Josephine Lillian Spence Strong](../Bios/Josephine_Spence.md) – mother, twin, pioneer descendant
+* [Thressa Lillian Strong Daubel](../Bios/Thressa_Strong.md) – matriarch, raised six children on the Daubel farm

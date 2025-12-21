@@ -20,8 +20,8 @@ Charles’s daughter Gladys Cooper was born in North Dakota. She met her future 
 
 ## Key Individuals
 
-* [Oscar F. Thaddeus Cooper (1847–1911)](Bios/Oscar_Bartosh.md) – patriarch, frontier farmer
+* [Oscar F. Thaddeus Cooper (1847–1911)](../Bios/Oscar_Bartosh.md) – patriarch, frontier farmer
 * Rosalthea “Rose” Lanphere – wife of Oscar, mother of eight
-* [Charles Calvin Cooper (1879–1948)](Bios/Charles_Cooper.md) – son of Oscar, farmer and Bemidji settler
-* [Anna Bartosh Cooper](Bios/Anna_Bartosh.md) – Charles’s second wife, mother of five
-* [Gladys May Cooper Petrie (1907–2002)](Bios/Gladys_Cooper.md) – nurse, camp cook, Spokane matriarch
+* [Charles Calvin Cooper (1879–1948)](../Bios/Charles_Cooper.md) – son of Oscar, farmer and Bemidji settler
+* [Anna Bartosh Cooper](../Bios/Anna_Bartosh.md) – Charles’s second wife, mother of five
+* [Gladys May Cooper Petrie (1907–2002)](../Bios/Gladys_Cooper.md) – nurse, camp cook, Spokane matriarch

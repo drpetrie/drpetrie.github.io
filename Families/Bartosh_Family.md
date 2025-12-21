@@ -15,6 +15,6 @@ Frank died in Lisbon on July 14, 1919, after a life of steady labor and fatherho
 
 ## Key Individuals
 
-* [Frank Louis Bartosh (1864–1919)](Bios/Frank_Bartosh.md) – Bohemian-born farmer and pioneer
+* [Frank Louis Bartosh (1864–1919)](../Bios/Frank_Bartosh.md) – Bohemian-born farmer and pioneer
 * Mary Eva Reha Bartosh – wife, mother of nine, cultural bridge
-* [Anna Elizabeth Bartosh Cooper](Bios/Anna_Bartosh.md) – daughter, married Charles Cooper
+* [Anna Elizabeth Bartosh Cooper](../Bios/Anna_Bartosh.md) – daughter, married Charles Cooper

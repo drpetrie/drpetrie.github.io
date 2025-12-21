@@ -18,6 +18,6 @@ Josephine’s life was shaped by the dual legacy of Yorkshire grit and Swedish r
 
 ## Key Individuals
 
-* [John W. Spence (1835–1916)](Bios/John_Spence.md) – Yorkshire-born teamster, frontier pioneer
+* [John W. Spence (1835–1916)](../Bios/John_Spence.md) – Yorkshire-born teamster, frontier pioneer
 * Sophia Margaret Anderson Spence – Swedish immigrant, wife and mother
-* [Josephine Lillian Spence Strong](Bios/Josephine_Spence.md) – twin, matriarch, bearer of family stories
+* [Josephine Lillian Spence Strong](../Bios/Josephine_Spence.md) – twin, matriarch, bearer of family stories
