@@ -20,14 +20,8 @@ In her daughter Rosie’s recollections, Marie's early years were marked by hard
 
 ## Key Individuals
 
-* Jacob Rudolph – German immigrant, laborer in Philadelphia
+* [Jacob Rudolph](Bios/Jacob_Rudolph.md) – German immigrant, laborer in Philadelphia
 * Anna Maria Raisch – Marie’s mother, died young
-* Marie Rudolph Daubel – daughter, pioneer mother of eleven
+* [Marie Rudolph Daubel](Bios/Marie_Rudolph.md) – daughter, pioneer mother of eleven
 * Christian Rudolph – brother who died by suicide at 17
 * Carrie Roehm – half-sister, maintained contact with Marie’s family
-
-## Family Tree and Photos
-
-* Rudolph and Raisch family tree
-* Portrait of Marie and Charles Daubel
-* Letters from Carrie Roehm to Herman Daubel

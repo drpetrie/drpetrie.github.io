@@ -28,15 +28,9 @@ His work life began in the woods, first with the Spokane Lumber Company in Milan
 
 ## Key Individuals
 
-* Ludwig Daubel (1839–1924) – blacksmith, patriarch, immigrant pioneer
+* [Ludwig Daubel (1839–1924)](Bios/Ludwig_Daubel.md) – blacksmith, patriarch, immigrant pioneer
 * Magdalena Streib Daubel (1839–1923) – wife and mother
-* Charles Daubel (1873–1950s) – farmer, sawmiller, father of eleven
-* Marie Rudolph Daubel – homemaker, midwife-assisted mother of eleven
-* Herman Daubel – eldest son, logger, farmer, Kaiser Aluminum worker, school team driver
+* [Charles Daubel (1873–1950s)](Bios/Charles_Daubel.md) – farmer, sawmiller, father of eleven
+* [Marie Rudolph Daubel](Bios/Marie_Rudolph.md) – homemaker, midwife-assisted mother of eleven
+* [Herman Daubel](Bios/Herman_Daubel.md) – eldest son, logger, farmer, Kaiser Aluminum worker, school team driver
 * Verla, Charlotte, Harold “Bud”, Dorothy, Larry and Delbert - Children of Herman and Thressa
-
-## Family Tree and Photos
-
-* Insert Daubel family tree
-* Insert photos of Bonfeld, Hanover, and Elk farmstead
-* Include image of Charles Daubel against the barn

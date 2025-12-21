@@ -24,13 +24,7 @@ Robert Helbig died on December 17, 1937, in Liberty Township at the home of his 
 
 ## Key Individuals
 
-* Robert Helbig (1852–1937) – baker, teacher, frontiersman
+* [Robert Helbig (1852–1937)](Bios/Robert_Helbig.md) – baker, teacher, frontiersman
 * Pauline Metzelt – first wife, mother of two daughters who died young
 * Emma Reitz Helbig – second wife, with complex religious agreements
-* Gertrude Helbig Petri – resilient matriarch, lived to 99
-
-## Family Tree and Photos
-
-* Insert Helbig family tree
-* Photos of Robert at Albuquerque Indian School, Liberty Township roads
-* Newspaper clippings: fire, bull injury, logging camp stabbing, house moving crew
+* [Gertrude Helbig Petri](Bios/Gertrude_Helbig.md) – resilient matriarch, lived to 99
