@@ -1,5 +1,7 @@
 # Chapter 6: The Strong Family
 
+* [Walter Ezra Strong](Bios/Walter_Strong.md) – early settler of Wild Rose Prairie
+
 ## Origins in America
 
 The Strong family lineage stretches back to the earliest Puritan settlements in New England. One of their ancestors, Elder John Strong, immigrated to Massachusetts from England in the 1630s and became a foundational figure in early colonial life. Over generations, the Strongs moved westward—from Massachusetts to upstate New York and into Pennsylvania and the Midwest—seeking land and opportunity.
