@@ -28,7 +28,7 @@ The family made many return trips to Minnesota over the years. Robert remained a
 
 ## Key Individuals
 
-* [Matthias Petri](/Petrie/John%20Petri.md) – immigrant patriarch, born 1839 in Saarland
+* [Matthias Petri](Petrie/Matthias%20Petri.md) – immigrant patriarch, born 1839 in Saarland
 * [[John Petri]] (1875–1913) – logger, homesteader, Justice of the Peace
 * Gertrude Helbig Petri (1884–1983) – matriarch, widow, and pioneer
 * Robert Petrie (1904–1990s) – logger, carpenter, Spokane foreman
