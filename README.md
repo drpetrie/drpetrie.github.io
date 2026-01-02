@@ -9,10 +9,12 @@ Have you ever wondered where our ancestors came from? If we go back four generat
 ### German Immigrants to Minnesota
 - [Matthias Petri (1846-1925)](Matthias%20Petri%20(1846-1925).md) - immigrant patriarch, born 1839 in Saarland
 - [John Petri (1875-1913)](John%20Petri%20(1875-1913).md)- logger, homesteader, Justice of the Peace
+
 ### From Minnesota to Washington
 - [Robert Petrie (1904-2002)](Genealogy/Biographies/Petrie%20Biographies/Robert%20Petrie%20(1904-2002).md) - logger, carpenter, Spokane foreman
 ----
 ## [Cooper](Genealogy/Family_Stories/Petrie_Families/Cooper.md)
+
 ### Pennsylvania to the Praries
 - [Oscar Cooper (1847–1911)](Oscar%20Cooper%20(1847–1911).md) - patriarch, frontier farmer
 - [Charles Cooper (1879–1948)](Charles%20Cooper%20(1879–1948).md) - son of Oscar, farmer and Bemidji settler
@@ -20,6 +22,7 @@ Have you ever wondered where our ancestors came from? If we go back four generat
 - [Gladys Cooper  (1909–2002)](Gladys%20Cooper%20%20(1909–2002).md) - Nurse, camp cook, beloved grandmother
 ----
 ## [Helbig](Genealogy/Family_Stories/Petrie_Families/Helbig.md)
+
 ### German immigrants to New Mexico
 - [Robert Helbig  (1852–1937)](Robert%20Helbig%20%20(1852–1937).md) - baker, teacher, frontiersman
 ### From the sands of New Mexico to the snow of Minnesota
