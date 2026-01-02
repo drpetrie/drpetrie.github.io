@@ -33,13 +33,19 @@ Have you ever wondered where our ancestors came from? If we go back four generat
 - [Robert Helbig  (1852–1937)](Robert%20Helbig%20%20(1852–1937).md) - baker, teacher, frontiersman
 
 ### From the sands of New Mexico to the snow of Minnesota
-- [Gertrude Helbig  (1882–1981)](Gertrude%20Helbig%20%20(1882–1981).md) - resilient matriarch, lived to 99## [Bartosh](Genealogy/Family_Stories/Petrie_Families/Bartosh.md)
+- [Gertrude Helbig  (1882–1981)](Gertrude%20Helbig%20%20(1882–1981).md) - resilient matriarch, lived to 99
+
+----
+
+## [Bartosh](Genealogy/Family_Stories/Petrie_Families/Bartosh.md)
 
 ### Rural Czech farms to Iowa
 - [Frank Bartosh  (1864–1919)](Frank%20Bartosh%20%20(1864–1919).md) - Bohemian-born farmer and pioneer
 
 ### Midwest Prairie woman
 - [Anna Bartosh  (1888-1964)](Anna%20Bartosh%20%20(1888-1964).md) - Pioneer women, beloved grandmother
+
+----
 
 ## [Daubel](Genealogy/Family_Stories/Petrie_Families/Daubel.md)
 
@@ -50,6 +56,8 @@ Have you ever wondered where our ancestors came from? If we go back four generat
 ### Quiet Man of the Northwest Woods
 - [Herman Daubel (1903–1977)](Herman%20Daubel%20(1903–1977).md) - eldest son, logger, farmer, Kaiser Aluminum worker
 
+----
+
 ## [Strong](Genealogy/Family_Stories/Petrie_Families/Strong.md)
 
 ### Westward Migration
@@ -59,6 +67,8 @@ Have you ever wondered where our ancestors came from? If we go back four generat
 - [William Strong (1887–1967)](William%20Strong%20(1887–1967).md) - farmer and patriarch
 - [Thressa Strong (1915–2002)](Thressa%20Strong%20(1915–2002).md) - matriarch, raised six children on the Daubel farm
 
+----
+
 ## [Rudolph](Genealogy/Family_Stories/Petrie_Families/Rudolph.md)
 
 ### Tragedy in Bempflingen
@@ -66,6 +76,8 @@ Have you ever wondered where our ancestors came from? If we go back four generat
 
 ### From Bempflingen to Elk
 - [Marie Rudolph (1878–1939)](Marie%20Rudolph%20(1878–1939).md) - daughter, pioneer mother of eleven
+
+----
 
 ## [Spence](Genealogy/Family_Stories/Petrie_Families/Spence.md)
 
