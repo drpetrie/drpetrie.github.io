@@ -1,0 +1,1 @@
+**White** - Came from England in the 1880s. Worked in mining in England and came to Illinois to work the coal mines there. 

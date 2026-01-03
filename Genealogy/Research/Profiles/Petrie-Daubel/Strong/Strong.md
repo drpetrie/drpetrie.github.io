@@ -1,0 +1,1 @@
+**Strong** - The Strong line goes all the way back to Elder John Strong who came to New England in 1635 on the ship Hopewell.

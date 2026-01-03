@@ -1,0 +1,1 @@
+**Daubel** - The Daubels immigrated from Bonfeld in Baden-Württemberg Germany in 1881. They initially settled in Kansas and moved to the Spokane area around 1900. The boys seemed to be a bit of a rough and tumble bunch. They appear in several Spokane newspaper clippings for being involved in feuds and marital problems.

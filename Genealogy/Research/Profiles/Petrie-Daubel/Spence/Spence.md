@@ -1,0 +1,1 @@
+**Spence** - The Spences came from Pontefract England and immigrated to the US in 1852. They migrated west with the majority winding up in California.

@@ -1,0 +1,5 @@
+**McWard, Richard D (1870-1955)**
+
+Son of Robert McWard (1837-1908). Brother of Robert John McWard (1866-1950)
+
+Richard D. McWard was born Jan. 14, 1870 at Pawnee. His early years were spent as a farm boy with his parents on farms in the Pawnee and Morrisonville areas. In 1904, Richard married Rose Agatha Cashen, daughter of Peter A. and Ellen Kelley Cashen, at St. Louis, Mo. They lived at Vinita, Okla., until the death of Richard's father in 1908, when Richard and Rose and their 3 children returned to Illinois to live on the home "home place". They became the parents of 10 children. The children attended the Monegan elementary school, which was just across the corner from their home, and all were graduated from Morrisonville H. S. Since school busses and cars. for driving to school, were unheard of in those days, a number of the McWard students rode to school in a buggy pulled by "Old Milt". It has been estimated, by some of the riders, that the faithful old horse traveled enough miles to equal at least one trip around the world.

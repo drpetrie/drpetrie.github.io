@@ -1,0 +1,5 @@
+**Holt, Hattie Elizabeth (1879-1967)**
+
+Believe she passed in Odessa Texas. I remember her. She liked to watch wrestling. She also had a lot of kids, big family. I think they lived outside Artesia NM.  - Robert McWard
+
+Mrs. Hattie Elizabeth Pate, 87, 4220 Winchester, died Saturday morning in Medical Center Hospital after a long illness. Her body will lie in state at the Hubbard-Kelly Funeral Home Chapel until early Monday. Funeral services will be conducted at 2 p.m. Monday in the First Methodist Church of Artesia, N.M., with burial in Woodbine Cemetery under direction of Hubbard-Kelly Funeral Home. Mrs. Pate came to Odessa from Artesia, N.M., in 1965. She had lived at Artesia 22 years. She was born Aug. 6, 1879, in Gibson County, Tenn., and married George R. Pate on Jan. 2, 1898, in Wooster, Ark. Mrs. Pate was a member of the Methodist Church.

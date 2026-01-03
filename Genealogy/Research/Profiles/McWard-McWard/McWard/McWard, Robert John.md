@@ -1,0 +1,3 @@
+**McWard, Robert John (1866-1950)**
+
+Robert John (RJ) was born in 1866 in Pawnee, Illinois. He operated an Implement Store in Palmer from  1904-1915 located north of the bank. He was the son of Robert McWard who immigrated from Ireland in 1858.  In 1911 he owned 80 acres in Bear Creek Township just north of Palmer. RJ was injured in a car accident in 1950 coming back from Arizona where he had spent the winter.

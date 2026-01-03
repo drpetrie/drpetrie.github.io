@@ -1,0 +1,1 @@
+**Pate, Henry Clay (1832-1910)**

@@ -1,0 +1,1 @@
+**Helbig** - The Helbigs hailed from Germany. It appears that they are from Dresden. Robert and Pauline appear to have had two daughters who must have died shortly after arriving in the US. One story is the children died in Kansas.

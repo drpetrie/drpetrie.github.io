@@ -1,0 +1,1 @@
+**Anderson** - From Stockholm. Can’t determine if Margret came to America by herself or with her parents.

@@ -1,0 +1,1 @@
+**McWard** - The McWard family immigrated from Ireland to Illinois in the mid 1800s. Robert M immigrating in 1862 followed by his brother David in 1865.

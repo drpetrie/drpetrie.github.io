@@ -1,0 +1,7 @@
+# Marie Rudolph (1878-1939)
+
+Mary was born to Jacob Rudolph and Marie Raisch. She had a brother Christian. Her mother appears to have died when she was very young and they went to live with their grandparents. Mary and Christian immigrated to the US in 1893 and lived with relatives in Philadelphia. Christian committed suicide in 1896.  Mary went west to visit her aunt Elizabeth “Raisch” Scholz where she met Charles Daubel. They were married in 1902 and had eleven children.
+
+Rosie Daubel wrote the following about her mother Marie
+
+This is all I know of mother when she was 3 yrs old her mother died she also had a brother which I think was older than she was and her father remarried and his second wife didn’t want his children so they were taken by her grand parents I suppose on her mother side. When she was 15 they figured she was old enough to go on her own so she and her brother were put on the boat and sent to Philadelphia to her aunts. One was a Mrs Engelman the other Mrs Pfoff. She worked at housework and had to learn to speak english also write in english and her brother had some incurable sickness and couldn’t work and she had to support him as well. He finally died as mother said but Mrs Scholz told me he committed suicide as he never could get well and was a burden. She came out to Washington to visit her aunt and Uncle the Scholz’s and married so never went back to Philadelphia. This is about all I can remember she had spoke of.

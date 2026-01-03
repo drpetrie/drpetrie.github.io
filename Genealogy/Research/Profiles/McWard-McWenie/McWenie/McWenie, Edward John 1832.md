@@ -1,0 +1,1 @@
+**McWenie, Edward John (1911–1979)**

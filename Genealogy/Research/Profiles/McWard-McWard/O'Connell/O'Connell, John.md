@@ -1,0 +1,3 @@
+Yes Uncle John, retired, bachelor coal miner, he bought me my 1st lawn mower. Then Uncle George Tanner, Jewish married to Aunt Boneva, Merville Tucker standing, sitting Uncle Connie White, owner of pool hall in Pana married to Aunt Lois, Dad standing, infront of him Phil Maton, then Uncle Claire, lawyer married to Aunt Reba. At our house on Market Street,later we moved from that house to Phoenix, then Tucson, then Phoenix and back to T-Ville in 1963. 
+
+Yep he had lung disease from working in the mines. But he always smoked a pipe and filled it with half in half not in a can but wrapped in brown paper with half and half stenciled on the paper. Skinny  as a rail. 

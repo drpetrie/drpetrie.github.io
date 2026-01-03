@@ -1,0 +1,1 @@
+**Logan family -** Came from PA to Taylorville in the early 1800s

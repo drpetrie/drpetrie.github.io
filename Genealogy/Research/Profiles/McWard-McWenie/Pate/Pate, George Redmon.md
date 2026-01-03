@@ -1,0 +1,1 @@
+**Pate, George Redmon (1870-1944)**
