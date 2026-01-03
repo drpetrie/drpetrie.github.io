@@ -9,7 +9,7 @@ Have you ever wondered where our ancestors came from? If we go back four generat
 ## [Petrie](Family_Stories/Petrie_Families/Petrie.md)
 
 ### German Immigrants to Minnesota
-- [Matthias Petri (1846-1925)](Biographies/Petrie_Biographies/Matthias_Petri_(1846-1925).md) - immigrant patriarch, born 1839 in Saarland
+- [Matthias Petri (1846-1925)](Biographies/Petrie_Biographies/Matthias_Petri.md) - immigrant patriarch, born 1839 in Saarland
 - [John Petri (1875-1913)](Biographies/Petrie_Biographies/John%20Petri%20(1875-1913).md)- logger, homesteader, Justice of the Peace
 
 ### From Minnesota to Washington
