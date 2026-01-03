@@ -1,2 +1,2 @@
-[Genealogy](Genealogy/Petrie_Family_History.md)x
+[Genealogy](Genealogy/Petrie_Family_History.md)
 

@@ -6,10 +6,10 @@ Have you ever wondered where our ancestors came from? If we go back four generat
 
 ![](Petrie_Tree.png)
 
-## [Petrie](Genealogy/Family_Stories/Petrie_Families/Petrie.md)
+## [Petrie](/Genealogy/Family_Stories/Petrie_Families/Petrie.md)
 
 ### German Immigrants to Minnesota
-- [Matthias Petri (1846-1925)](Matthias%20Petri%20(1846-1925).md) - immigrant patriarch, born 1839 in Saarland
+- [Matthias Petri (1846-1925)](/Genealogy/Biographies/Petrie_Biographies/Matthias%20Petri%20(1846-1925).md) - immigrant patriarch, born 1839 in Saarland
 - [John Petri (1875-1913)](John%20Petri%20(1875-1913).md)- logger, homesteader, Justice of the Peace
 
 ### From Minnesota to Washington
@@ -45,36 +45,25 @@ Have you ever wondered where our ancestors came from? If we go back four generat
 - [Anna Bartosh  (1888-1964)](Anna%20Bartosh%20%20(1888-1964).md) - Pioneer women, beloved grandmother
 
 ## [Daubel](Genealogy/Family_Stories/Petrie_Families/Daubel.md)
-
 ### Bonfeld Germany to Elk, WA
 - [Ludwig Daubel  (1839-1924)](Ludwig%20Daubel%20%20(1839-1924).md) - blacksmith, patriarch, immigrant pioneer
 - [Charles Daubel (1873–1950)](Charles%20Daubel%20(1873–1950).md) - farmer, sawmiller, father of eleven
-
 ### Quiet Man of the Northwest Woods
 - [Herman Daubel (1903–1977)](Herman%20Daubel%20(1903–1977).md) - eldest son, logger, farmer, Kaiser Aluminum worker
-
 ## [Strong](Genealogy/Family_Stories/Petrie_Families/Strong.md)
-
 ### Westward Migration
 - [Walter Strong (1855–1921)](Walter%20Strong%20(1855–1921).md) - early settler of Wild Rose Prairie
-
 ### Wildrose Prairie Settlers
 - [William Strong (1887–1967)](William%20Strong%20(1887–1967).md) - farmer and patriarch
 - [Thressa Strong (1915–2002)](Thressa%20Strong%20(1915–2002).md) - matriarch, raised six children on the Daubel farm
-
 ## [Rudolph](Genealogy/Family_Stories/Petrie_Families/Rudolph.md)
-
 ### Tragedy in Bempflingen
 - [Jacob Rudolph (1853–1933)](Jacob%20Rudolph%20(1853–1933).md) - German immigrant, laborer in Philadelphia
-
 ### From Bempflingen to Elk
 - [Marie Rudolph (1878–1939)](Marie%20Rudolph%20(1878–1939).md) - daughter, pioneer mother of eleven
-
 ## [Spence](Genealogy/Family_Stories/Petrie_Families/Spence.md)
-
 ### Pioneer Teamster
 - [John Spence (1835–1916)](John%20Spence%20(1835–1916).md) - Yorkshire-born teamster, frontier pioneer
-
 ### Woman of the West
 - [Josephine Spence (1889–1972)](Josephine%20Spence%20(1889–1972).md) - twin, matriarch, bearer of family stories
 
@@ -82,18 +71,4 @@ Have you ever wondered where our ancestors came from? If we go back four generat
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Petrie | [Matthias Petri (1846-1925)](Matthias%20Petri%20(1846-1925).md)<br>[Robert Petrie (1904-2002)](Genealogy/Biographies/Petrie_Biographies/Robert%20Petrie%20(1904-2002).md) |
 | Daubel | [Charles Daubel (1873–1950)](Charles%20Daubel%20(1873–1950).md)<br>[Herman Daubel (1903–1977)](Herman%20Daubel%20(1903–1977).md)                                          |
-[Anna Raisch (1855-1880)](Anna%20Raisch%20(1855-1880).md)
-[Charles Daubel (1873–1950)](Charles%20Daubel%20(1873–1950).md)
-[Herman Daubel (1903–1977)](Herman%20Daubel%20(1903–1977).md)
-[Jacob Rudolph (1853–1933)](Jacob%20Rudolph%20(1853–1933).md)
-[Jennie Newman (1859-1934)](Jennie%20Newman%20(1859-1934).md)
-[John Spence (1835–1916)](John%20Spence%20(1835–1916).md)
-[Josephine Spence (1889–1972)](Josephine%20Spence%20(1889–1972).md)
-[Ludwig Daubel  (1839-1924)](Ludwig%20Daubel%20%20(1839-1924).md)
-[Magdalene Streib (1840-1923)](Magdalene%20Streib%20(1840-1923).md)
-[Marie Rudolph (1878–1939)](Marie%20Rudolph%20(1878–1939).md)
-[Sophia Anderson (1855-1905)](Sophia%20Anderson%20(1855-1905).md)
-[Thressa Strong (1915–2002)](Thressa%20Strong%20(1915–2002).md)
-[Walter Strong (1855–1921)](Walter%20Strong%20(1855–1921).md)
-[William Strong (1887–1967)](William%20Strong%20(1887–1967).md)
-
+[Contents](Contents.md)
