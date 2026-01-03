@@ -1,3 +1,5 @@
+[Genealogy](Genealogy/Petrie_Family_History.md)
+
 # Family Stories and Biographies
 
 This site traces the story of eight interconnected families across three generations to my great-grandparents —from their European origins to their lives in frontier America, and eventually into towns and cities of the Inland Northwest. For each of these eight families, I wrote a story about their journey. These narratives preserve the cultural and personal legacies of the Petrie, Cooper, Helbig, Bartosh, Daubel, Strong, Rudolph, Spence, and other families that contributed to this lineage.
