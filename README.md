@@ -87,4 +87,4 @@ Have you ever wondered where our ancestors came from? If we go back four generat
 ### Woman of the West
 - [Josephine Spence (1889–1972)](Josephine%20Spence%20(1889–1972).md) - twin, matriarch, bearer of family stories
 
-[Index](/index.md)
+[Index](/contents.md)
